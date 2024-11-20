@@ -1,4 +1,4 @@
-# GS.Edge_Computing-
+# GS.Edge_Computing
 
 # Participantes
 Lucca: 560731
