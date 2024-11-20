@@ -1,3 +1,5 @@
+//Professor esse codigo retrata a tela que tem na nossa panela, no codigo pode ver o nivel de bateria, modos de preparos e colocar um timer
+
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
